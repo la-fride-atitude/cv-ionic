@@ -1,0 +1,7 @@
+{
+  "name": "CVICT202",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

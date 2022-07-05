@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "CVICT202": {
+      "hosting": {
+        "app": [
+          "CVICT202"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "demo": "CVICT202"
+  }
+}
